@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQRUnQFYBo4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frame\\source\\repos\\GeekPack Manager\\GeekPack Manager\\GeekPack Manager.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frame\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

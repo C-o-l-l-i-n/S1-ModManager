@@ -1,0 +1,5 @@
+C:\Users\frame\Desktop\geek\GeekPack Manager.exe
+C:\Users\frame\Desktop\geek\GeekPack Manager.dll
+C:\Users\frame\Desktop\geek\GeekPack Manager.deps.json
+C:\Users\frame\Desktop\geek\GeekPack Manager.runtimeconfig.json
+C:\Users\frame\Desktop\geek\GeekPack Manager.pdb

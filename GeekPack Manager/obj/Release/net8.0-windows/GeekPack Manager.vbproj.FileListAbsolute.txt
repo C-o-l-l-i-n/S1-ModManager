@@ -1,0 +1,18 @@
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\bin\Release\net8.0-windows\GeekPack Manager.exe
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\bin\Release\net8.0-windows\GeekPack Manager.deps.json
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\bin\Release\net8.0-windows\GeekPack Manager.runtimeconfig.json
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\bin\Release\net8.0-windows\GeekPack Manager.dll
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\bin\Release\net8.0-windows\GeekPack Manager.pdb
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack_Manager.Form1.resources
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.vbproj.GenerateResource.cache
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.AssemblyInfoInputs.cache
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.AssemblyInfo.vb
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.vbproj.CoreCompileInputs.cache
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.dll
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\refint\GeekPack Manager.dll
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.pdb
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack Manager.genruntimeconfig.cache
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\ref\GeekPack Manager.dll
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack_Manager.AddFeats.resources
+C:\Users\frame\source\repos\GeekPack Manager\GeekPack Manager\obj\Release\net8.0-windows\GeekPack_Manager.BackupPreviewForm.resources
