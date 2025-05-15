@@ -36,12 +36,13 @@ A lightweight Windows application built with VB.NET for automating the installat
 
 ## 🌐 Cloud Dependencies
 
-The application fetches modpack files and update instructions from the following sources:
+The application fetches oonline files and update instructions for the following items:
 
 - Modpack Version
 - Application Version
 - Update Executable URL
 - Mod Files ZIP URL
+- MelonLoader Files
 
 ---
 
